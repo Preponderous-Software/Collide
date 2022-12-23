@@ -1,0 +1,5 @@
+['complex relationships', 'fishing']: The innkeeper should purchase food from fishermen and sell it at an upcharge.
+['mining', 'world modification']: Make changes in the mine persistent.
+['interaction', 'social mobility']: Allow the user to climb the social ladder via interaction/bribery.
+['exploration', 'community']: There could be tour groups of NPCs roaming the island for some reason.
+['branching choices', 'antagonist']: Allow the player to be for or against the antagonist of the game.
