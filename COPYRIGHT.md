@@ -8,7 +8,7 @@ This project, **Collide**, is developed and maintained as part of **Preponderous
 
 ## Licensing
 
-The source code and associated materials for **Collide** are made available under the terms of the [MIT License](LICENSE). By contributing to this project, you agree that your contributions will also be licensed under the same terms.
+The source code and associated materials for **Collide** are made available under the terms of the [GPL 3.0](LICENSE). By contributing to this project, you agree that your contributions will also be licensed under the same terms.
 
 ## Attribution
 
